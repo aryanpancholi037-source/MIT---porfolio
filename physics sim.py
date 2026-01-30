@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 #position = velocity x change in time
 #momentum = mass x velocity
 
-#acceleration due to gravity m/s^2
+#vector quantity, acceleration due to gravity m/s^2
 acceleration = -9.81
 
 #height (meters)
